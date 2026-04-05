@@ -32,7 +32,7 @@
 
 | | |
 |:---:|:---:|
-| ![Win](screenshots/winner.png) | ![Lose](screenshots/loser.png) |
+| ![Win](screenshots/winner.png) | ![Lose](screenshots/loser.PNG) |
 | *Victory Screen* | *Defeat Screen* |
 
 | |
