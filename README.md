@@ -6,19 +6,39 @@
 
 ## Screenshots
 
-> *(Replace placeholders with actual in-game screenshots)*
+> Add your screenshots to a `screenshots/` folder in the project root.
+> Recommended resolution: **1000×600** (matches the game window).
 
-| Splash Screen | Track Select |
-|---|---|
-| ![Splash](screenshots/splash.png) | ![Track Select](screenshots/track_select.png) |
+### Menus
 
-| Race — City Track | Race — Combat |
-|---|---|
-| ![City](screenshots/race_city.png) | ![Combat](screenshots/combat.png) |
+| | | |
+|:---:|:---:|:---:|
+| ![Splash Screen](screenshots/splash.png) | ![Track Select](screenshots/track_select.png) | ![AI Select](screenshots/ai_select.png) |
+| *Splash Screen* | *Track Select* | *AI Difficulty Select* |
 
-| Results — Win | Results — Lose |
-|---|---|
-| ![Win](screenshots/win.png) | ![Lose](screenshots/lose.png) |
+### Race
+
+| | |
+|:---:|:---:|
+| ![City Track](screenshots/race_city.png) | ![Desert Track](screenshots/race_desert.png) |
+| *City Track* | *Desert Track* |
+
+| | |
+|:---:|:---:|
+| ![Combat](screenshots/combat.png) | ![Hazard](screenshots/hazard.png) |
+| *Combat — Attacking Opponent* | *Hazard — Oil Slick* |
+
+### Results
+
+| | |
+|:---:|:---:|
+| ![Win](screenshots/winner.png) | ![Lose](screenshots/loser.png) |
+| *Victory Screen* | *Defeat Screen* |
+
+| |
+|:---:|
+| ![Results](screenshots/results.png) |
+| *Results — Final Stats* |
 
 ---
 
